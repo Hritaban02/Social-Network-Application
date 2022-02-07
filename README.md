@@ -11,7 +11,7 @@ appear in the incoming messages list for all members of the group. All direct po
 contact also appear as incoming messages. For this current assignment, the list of users, their
 contacts, and the list of groups is given as an input from a file (named
 social_network.txt) of the following format:
-# users
+### users
 <user_id1: contact_user1, contact_user2, …>
 …
 <user_idn: contact_user1, contact_user2, …>
